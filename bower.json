@@ -1,0 +1,25 @@
+{
+  "name": "angular-my-directive",
+  "version": "0.0.1",
+  "authors": [
+    "Alvaro Muhlethaler <amuhlethaler@vairix.com>"
+  ],
+  "description": "testing modules integration",
+  "main": "directive.js",
+  "keywords": [
+    "integration",
+    "modules",
+    "angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.1"
+  }
+}
