@@ -1,6 +1,6 @@
 {
   "name": "angular-my-directive",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "authors": [
     "Alvaro Muhlethaler <amuhlethaler@vairix.com>"
   ],
@@ -20,6 +20,9 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "~1.4.1"
+    "angular": "1.4.0"
+  },
+  "devDependencies": {
+    "angular": "1.4.0"
   }
 }

@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('ui-common').directive('ysAutofocus', ['$timeout', function($timeout) {
+angular.module('uiCommon').directive('ysAutofocus', ['$timeout', function($timeout) {
   return {
     link: function(scope, element, attrs) {
       // Workaround for ui-mask:
